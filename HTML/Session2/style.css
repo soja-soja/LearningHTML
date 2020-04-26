@@ -1,0 +1,20 @@
+#profilePic{ 
+	width:100px; 
+	display: inline; 
+	border: 5px solid black
+ }
+
+body{
+ 	background-color:  #999
+}
+a{
+	color: green;
+}
+
+.textRed {
+	color: red;
+}
+
+p {
+	color:blue; font-size: xx-small;
+}
